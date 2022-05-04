@@ -51,7 +51,7 @@ using namespace std;
     }
 }*/
 //Ejercicio 4
-/*int main(){
+int main(){
     int numero1,numero2,contador=0,contador2=0;
     cout<<"Escribe un numero mayor que 1:"<<endl;
     cin>>numero1;
@@ -76,7 +76,6 @@ using namespace std;
                 contador=0;
             }
         }
-        cout<<contador2<<endl;
         if(contador2==0){
             for(int i=numero2;i<numero1+100;i++){
                 for(int a=1;a<=i;a++){
@@ -101,7 +100,7 @@ using namespace std;
         cout<<"Vuelva a ingresar el numero. "<<endl;
         main();
     }  
-}*/
+}
 //Ejercicio 5
 /*void llenarlista(float A[],int a){
     for(int i=0;i<a;i++){
