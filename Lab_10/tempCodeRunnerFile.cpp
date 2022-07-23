@@ -1,0 +1,1 @@
+limino el ultimo elemento de la list
