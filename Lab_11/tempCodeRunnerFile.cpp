@@ -1,0 +1,1 @@
+rres(TorreA,TorreB,TorreC);
